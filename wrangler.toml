@@ -4,9 +4,9 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_CLIENT_ID = "Ov23ctcZPmOXWbm6Q4ms"
+GITHUB_CLIENT_ID = "Ov23ligN4jNbl2bUS4PI"
 GITHUB_OWNER = "gt779"
-GITHUB_REPO = "navsphere"
+GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://gt.sov.us.ci/api/auth"
 NEXT_PUBLIC_API_URL="https://gt.sov.us.ci/"
